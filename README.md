@@ -79,15 +79,15 @@ TaxiTravels/
 
 ### 1️. Backend
 
-cd backend-pc-app
-npm install
-node server.js
+i. cd backend-pc-app
+ii. npm install
+iii. node server.js
 
 ### 2️. Mobile App
 
-cd mobile-frontend-app
-npm install
-npx expo start
+i. cd mobile-frontend-app
+ii. npm install
+iii. npx expo start
 
 * Scan the QR code using **Expo Go** on your mobile device
 
